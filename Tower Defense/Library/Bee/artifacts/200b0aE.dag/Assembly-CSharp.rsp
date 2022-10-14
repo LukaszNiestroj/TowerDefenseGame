@@ -351,8 +351,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Enemy.cs"
-"Assets/waypoints.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/WaveSpawner.cs"
+"Assets/Scripts/waypoints.cs"
 -langversion:9.0
 
 /deterministic
