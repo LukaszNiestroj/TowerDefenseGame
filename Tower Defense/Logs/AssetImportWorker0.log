@@ -963,3 +963,203 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2102.058465 seconds.
+  path: Assets/Imports/Standard Turret
+  artifactKey: Guid(2c40255bff3884d70b43ce02ae55b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Standard Turret using Guid(2c40255bff3884d70b43ce02ae55b199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3ffe959d1dc426280188ef4c4839ba') in 0.027325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.430795 seconds.
+  path: Assets/Imports/Missile Launcher
+  artifactKey: Guid(5a4ea924901fa4a28b1b898e21a3db25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Missile Launcher using Guid(5a4ea924901fa4a28b1b898e21a3db25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadb9f3d8c42edfc12096b62e992d623') in 0.001517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.572287 seconds.
+  path: Assets/Imports/Missile Launcher/Missile Launcher Texture.png
+  artifactKey: Guid(26f61bf960a5e4078982dd582cdc18d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Missile Launcher/Missile Launcher Texture.png using Guid(26f61bf960a5e4078982dd582cdc18d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af9ea82977fdca531ad95f6b1069e50') in 0.143852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 357.446339 seconds.
+  path: Assets/Imports/Missile Launcher/Missile Launcher.fbx
+  artifactKey: Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Missile Launcher/Missile Launcher.fbx using Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e9644bae5085d1d0a8be199add7f67') in 0.163934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.821801 seconds.
+  path: Assets/Imports/Missile Launcher/Missile Launcher.fbx
+  artifactKey: Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Missile Launcher/Missile Launcher.fbx using Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f1696e16aa0c44403775f849fe79ea') in 0.060454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.478242 seconds.
+  path: Assets/Imports/Missile Launcher/Missile Launcher.fbx
+  artifactKey: Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imports/Missile Launcher/Missile Launcher.fbx using Guid(c43312ddd5a214b26a2572a42f80efde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52358998a75106964c3a0a5084d96669') in 0.040216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 839.651097 seconds.
+  path: Assets/Prefabs/MissileLauncher.prefab
+  artifactKey: Guid(155319a6bd9484398a5d657d8ce41dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MissileLauncher.prefab using Guid(155319a6bd9484398a5d657d8ce41dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10918fa6ce6d89459225fdf460620145') in 0.042768 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001237 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b3ab000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/lukaszniestroj/Desktop/Game2D/TowerDefenseGame/Tower Defense/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/lukaszniestroj/Desktop/Game2D/TowerDefenseGame/Tower Defense/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.691 seconds
+Domain Reload Profiling:
+	ReloadAssembly (692ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (508ms)
+			LoadAssemblies (45ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (208ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (193ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (41ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (72.6 KB). Loaded Objects now: 3939.
+Memory consumption went from 255.0 MB to 254.9 MB.
+Total: 2.405166 ms (FindLiveObjects: 0.129750 ms CreateObjectMapping: 0.053666 ms MarkObjects: 2.154334 ms  DeleteObjects: 0.067041 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 485.593691 seconds.
+  path: Assets/MissileLauncherIcon.png
+  artifactKey: Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MissileLauncherIcon.png using Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf445e4a69e48e362b249b360309eb3') in 0.076267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.530510 seconds.
+  path: Assets/MissileLauncherIcon.png
+  artifactKey: Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MissileLauncherIcon.png using Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0945315b2e00e0a6c2b13c1180de858d') in 0.011942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.359888 seconds.
+  path: Assets/MissileLauncherIcon.png
+  artifactKey: Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MissileLauncherIcon.png using Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d605fdc0b41c6d2e187ca91e616549') in 0.045764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.026585 seconds.
+  path: Assets/MissileLauncherIcon.png
+  artifactKey: Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MissileLauncherIcon.png using Guid(7b8ae455505dc4953b35b565d1363703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e08bd1cab021de241e32db8a942520a') in 0.023421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.217474 seconds.
+  path: Assets/Icons
+  artifactKey: Guid(e7c385463122f458db381454378752a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Icons using Guid(e7c385463122f458db381454378752a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25529c923e412cd3cda98e3f5897ee34') in 0.001681 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001313 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16b3ab000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/lukaszniestroj/Desktop/Game2D/TowerDefenseGame/Tower Defense/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/lukaszniestroj/Desktop/Game2D/TowerDefenseGame/Tower Defense/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Domain Reload Profiling:
+	ReloadAssembly (748ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (78ms)
+		EndReloadAssembly (534ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (222ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (207ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (138ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3384 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (72.7 KB). Loaded Objects now: 3948.
+Memory consumption went from 255.3 MB to 255.2 MB.
+Total: 2.596458 ms (FindLiveObjects: 0.132583 ms CreateObjectMapping: 0.045083 ms MarkObjects: 2.327334 ms  DeleteObjects: 0.090750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 140.854341 seconds.
+  path: Assets/Prefabs/StandardTurret.prefab
+  artifactKey: Guid(67f232d3ca5d74402a5049913483ad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StandardTurret.prefab using Guid(67f232d3ca5d74402a5049913483ad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d0d5fab0bedac0c8ef2d489b1036fa') in 0.105531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.577573 seconds.
+  path: Assets/Prefabs/StandardTurret.prefab
+  artifactKey: Guid(67f232d3ca5d74402a5049913483ad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/StandardTurret.prefab using Guid(67f232d3ca5d74402a5049913483ad3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544cf7463838baeb9eb97bab6d1987da') in 0.009812 seconds 
