@@ -351,6 +351,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/PlayerStats.cs"
 "Assets/Scripts/BuildManager.cs"
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/CameraController.cs"
@@ -358,6 +359,7 @@
 "Assets/Scripts/LaserBeamer.cs"
 "Assets/Scripts/Node.cs"
 "Assets/Scripts/Shop.cs"
+"Assets/Scripts/TurretBlueprint.cs"
 "Assets/Scripts/WaveSpawner.cs"
 "Assets/Scripts/waypoints.cs"
 -langversion:9.0
